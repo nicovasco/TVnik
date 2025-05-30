@@ -744,7 +744,7 @@ def eventi_m3u8_generator_world():
         return re.sub(r'<[^>]+>', '', name).strip() 
      
     def extract_channels_from_json(path): 
-        keywords = {"italy", "rai", "italia", "it", "uk", "tnt", "usa", "tennis channel", "tennis stream", "la"} 
+        keywords = {"italy", "rai", "italia", "it", "uk", "tnt", "usa", "tennis", "la"} 
         now = datetime.now()  # Ora attuale completa (data+ora) 
         yesterday_date = (now - timedelta(days=1)).date() # Data di ieri
      
