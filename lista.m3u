@@ -1405,16 +1405,19 @@ https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://zekonew.newkso.ru/zeko/pr
 #EXTINF:-1 tvg-id="uefawomensnationsleagueenglandvsportugal" tvg-name="UEFA Women's Nations League : England vs Portugal (20:45)" tvg-logo="https://raw.githubusercontent.com/nicovasco/TVNIK/main/logos/England_vs_Portugal.png" group-title="Eventi Live",UEFA Women's Nations League : England vs Portugal (20:45)
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://ddy6new.newkso.ru/ddy6/premium353/mono.m3u8
 
+#EXTINF:-1 tvg-name="Tennis ATP - ROLAND GARROS" group-title="Eventi Live",--- Tennis ATP - ROLAND GARROS ---
+https://exemple.m3u8
+
 #EXTINF:-1 tvg-name="Motorsport" group-title="Eventi Live",--- Motorsport ---
 https://exemple.m3u8
 
-#EXTINF:-1 tvg-id="indynxtserieschevroletdetroitgrandprixpractice1" tvg-name="Indy NXT Series Chevrolet Detroit Grand Prix, Practice 1 (20:00)" tvg-logo="https://static.flashscore.com/res/image/data/dfage6V1-MktxiDZk.png" group-title="Eventi Live",Indy NXT Series Chevrolet Detroit Grand Prix, Practice 1 (20:00)
+#EXTINF:-1 tvg-id="indynxtserieschevroletdetroitgrandprixpractice1" tvg-name="Indy NXT Series Chevrolet Detroit Grand Prix, Practice 1 (20:00)" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/m9xm9w1552216863.png" group-title="Eventi Live",Indy NXT Series Chevrolet Detroit Grand Prix, Practice 1 (20:00)
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://zekonew.newkso.ru/zeko/premium758/mono.m3u8
 
 #EXTINF:-1 tvg-id="indycarseriesseasonpracticesession1streetsofdetroit" tvg-name="IndyCar Series Season Practice Session 1 - Streets of Detroit (21:00)" tvg-logo="https://images.seeklogo.com/logo-png/36/2/indycar-series-racing-logo-png_seeklogo-367462.png" group-title="Eventi Live",IndyCar Series Season Practice Session 1 - Streets of Detroit (21:00)
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://zekonew.newkso.ru/zeko/premium758/mono.m3u8
 
-#EXTINF:-1 tvg-id="indycarseriesseasonpracticesession1streetsofdetroit" tvg-name="IndyCar Series Season Practice Session 1 - Streets of Detroit (21:00)" tvg-logo="https://images.seeklogo.com/logo-png/36/2/indycar-series-racing-logo-png_seeklogo-367462.png" group-title="Eventi Live",IndyCar Series Season Practice Session 1 - Streets of Detroit (21:00)
+#EXTINF:-1 tvg-id="indycarseriesseasonpracticesession1streetsofdetroit" tvg-name="IndyCar Series Season Practice Session 1 - Streets of Detroit (21:00)" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/indycar-series-logo-png-transparent.png" group-title="Eventi Live",IndyCar Series Season Practice Session 1 - Streets of Detroit (21:00)
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://windnew.newkso.ru/wind/premium60/mono.m3u8
 
 #EXTINF:-1 tvg-id="nascarcraftsmantruckseriesrackleyroofing200qualifying" tvg-name="NASCAR Craftsman Truck Series Rackley Roofing 200, Qualifying (22:30)" tvg-logo="https://brandlogo.org/wp-content/uploads/2024/08/NASCAR-Craftsman-Truck-Series-Logo.png" group-title="Eventi Live",NASCAR Craftsman Truck Series Rackley Roofing 200, Qualifying (22:30)
@@ -1426,7 +1429,7 @@ https://exemple.m3u8
 #EXTINF:-1 tvg-id="pgatourthememorialtournament" tvg-name="PGA Tour The Memorial Tournament (20:00)" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/pga-tour-5-logo-png-transparent.png" group-title="Eventi Live",PGA Tour The Memorial Tournament (20:00)
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://windnew.newkso.ru/wind/premium70/mono.m3u8
 
-#EXTINF:-1 tvg-id="pgatourthememorialtournament" tvg-name="PGA Tour The Memorial Tournament (20:00)" tvg-logo="https://loodibee.com/wp-content/uploads/PGA_Tour_logo.png" group-title="Eventi Live",PGA Tour The Memorial Tournament (20:00)
+#EXTINF:-1 tvg-id="pgatourthememorialtournament" tvg-name="PGA Tour The Memorial Tournament (20:00)" tvg-logo="https://brandslogos.com/wp-content/uploads/images/large/pga-tour-logo-1.png" group-title="Eventi Live",PGA Tour The Memorial Tournament (20:00)
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://zekonew.newkso.ru/zeko/premium318/mono.m3u8
 
 #EXTINF:-1 tvg-name="Baseball" group-title="Eventi Live",--- Baseball ---
@@ -1459,7 +1462,7 @@ https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://windnew.newkso.ru/wind/pr
 #EXTINF:-1 tvg-name="Rugby League" group-title="Eventi Live",--- Rugby League ---
 https://exemple.m3u8
 
-#EXTINF:-1 tvg-id="superleaguerugbyhullkrvssthelens" tvg-name="Super League Rugby : Hull KR vs St Helens (21:00)" tvg-logo="http://content.sportslogos.net/logos/81/2468/full/1082_st_helens_rfc-primary-2011.png" group-title="Eventi Live",Super League Rugby : Hull KR vs St Helens (21:00)
+#EXTINF:-1 tvg-id="superleaguerugbyhullkrvssthelens" tvg-name="Super League Rugby : Hull KR vs St Helens (21:00)" tvg-logo="https://badge.hullkr.co.uk/app/uploads/2021/09/badge_crest_and_bird_redraw.png" group-title="Eventi Live",Super League Rugby : Hull KR vs St Helens (21:00)
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://nfsnew.newkso.ru/nfs/premium37/mono.m3u8
 
 #EXTINF:-1 tvg-name="Rugby Union" group-title="Eventi Live",--- Rugby Union ---
