@@ -1,19 +1,19 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/nicovasco/TVNIK/refs/heads/main/epg.xml"
 
 #EXTINF:-1 tvg-id="rai1.it" tvg-name="RAI 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-1-it.png" group-title="Rai",RAI 1
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/875922788/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1225653759/index.m3u8
 
 #EXTINF:-1 tvg-id="rai1.it" tvg-name="RAI 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-1-it.png" group-title="Rai",RAI 1 (2)
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1225653759/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/875922788/index.m3u8
 
 #EXTINF:-1 tvg-id="rai1.it" tvg-name="RAI 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-1-it.png" group-title="Rai",RAI 1 (D)
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://ddy6new.newkso.ru/ddy6/premium850/mono.m3u8
 
 #EXTINF:-1 tvg-id="rai2.it" tvg-name="RAI 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-2-it.png" group-title="Rai",RAI 2
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1939210164/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/246253359/index.m3u8
 
 #EXTINF:-1 tvg-id="rai2.it" tvg-name="RAI 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-2-it.png" group-title="Rai",RAI 2 (2)
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/246253359/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1939210164/index.m3u8
 
 #EXTINF:-1 tvg-id="rai2.it" tvg-name="RAI 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-2-it.png" group-title="Rai",RAI 2 (D)
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://ddy6new.newkso.ru/ddy6/premium851/mono.m3u8
@@ -31,10 +31,10 @@ https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://windnew.newkso.ru/wind/pr
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://windnew.newkso.ru/wind/premium852/mono.m3u8
 
 #EXTINF:-1 tvg-id="rai4.it" tvg-name="RAI 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-4-it.png" group-title="Rai",RAI 4
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/4241820180/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2179822223/index.m3u8
 
 #EXTINF:-1 tvg-id="rai4.it" tvg-name="RAI 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-4-it.png" group-title="Rai",RAI 4 (2)
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2179822223/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/4241820180/index.m3u8
 
 #EXTINF:-1 tvg-id="rai4k.it" tvg-name="RAI 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Rai_4K_-_Logo_2017.svg/1200px-Rai_4K_-_Logo_2017.svg.png" group-title="Rai",RAI 4K
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2049087681/index.m3u8
@@ -70,10 +70,10 @@ https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2272923972/
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2239645272/index.m3u8
 
 #EXTINF:-1 tvg-id="raipremium.it" tvg-name="RAI PREMIUM" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-premium-it.png" group-title="Rai",RAI PREMIUM
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2828455552/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2861734300/index.m3u8
 
 #EXTINF:-1 tvg-id="raipremium.it" tvg-name="RAI PREMIUM" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-premium-it.png" group-title="Rai",RAI PREMIUM (2)
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2861734300/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2828455552/index.m3u8
 
 #EXTINF:-1 tvg-id="raipremium.it" tvg-name="RAI PREMIUM" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-premium-it.png" group-title="Rai",RAI PREMIUM (D)
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://windnew.newkso.ru/wind/premium858/mono.m3u8
@@ -97,10 +97,10 @@ https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/551730224/i
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/843891896/index.m3u8
 
 #EXTINF:-1 tvg-id="raistoria.it" tvg-name="RAI STORIA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-storia-it.png" group-title="Rai",RAI STORIA
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/78838793/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/57338653/index.m3u8
 
 #EXTINF:-1 tvg-id="raistoria.it" tvg-name="RAI STORIA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-storia-it.png" group-title="Rai",RAI STORIA (2)
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/57338653/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/78838793/index.m3u8
 
 #EXTINF:-1 tvg-id="raiyoyo.it" tvg-name="RAI YOYO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-yoyo-it.png" group-title="Rai",RAI YOYO
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1890950169/index.m3u8
@@ -133,10 +133,10 @@ https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1534161807/
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1768670187/index.m3u8
 
 #EXTINF:-1 tvg-id="italia.1.it" tvg-name="ITALIA 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/italia1-it.png" group-title="Mediaset",ITALIA 1
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/663536394/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/633342961/index.m3u8
 
 #EXTINF:-1 tvg-id="italia.1.it" tvg-name="ITALIA 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/italia1-it.png" group-title="Mediaset",ITALIA 1 (2)
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/633342961/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/663536394/index.m3u8
 
 #EXTINF:-1 tvg-id="italia.1.it" tvg-name="ITALIA 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/italia1-it.png" group-title="Mediaset",ITALIA 1 (D)
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://windnew.newkso.ru/wind/premium854/mono.m3u8
@@ -172,10 +172,10 @@ https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1351631603/
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://nfsnew.newkso.ru/nfs/premium877/mono.m3u8
 
 #EXTINF:-1 tvg-id="dazn.2.it.it" tvg-name="DAZN2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="Sport",DAZN2
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1376440573/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2911178456/index.m3u8
 
 #EXTINF:-1 tvg-id="dazn.2.it.it" tvg-name="DAZN2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="Sport",DAZN2 (2)
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2911178456/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1376440573/index.m3u8
 
 #EXTINF:-1 tvg-id="eurosport.1.it" tvg-name="EUROSPORT 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-1-es.png" group-title="Sport",EUROSPORT 1
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3481346857/index.m3u8
@@ -271,10 +271,10 @@ https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://hls.kangal.icu/hls/sky260
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://hls.kangal.icu/hls/sky261/index.m3u8&h_user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36&h_referer=https://skystreaming.stream/&h_origin=https://skystreaming.stream
 
 #EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-name="SKY SPORT ARENA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2555960713/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3007400791/index.m3u8
 
 #EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-name="SKY SPORT ARENA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA (2)
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3007400791/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2555960713/index.m3u8
 
 #EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-name="SKY SPORT ARENA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA (D)
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://ddy6new.newkso.ru/ddy6/premium462/mono.m3u8
@@ -304,10 +304,10 @@ https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://dokko1new.newkso.ru/dokko
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1989309231/index.m3u8
 
 #EXTINF:-1 tvg-id="sky.sport.golf.it" tvg-name="SKY SPORT GOLF" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-golf-it.png" group-title="Sport",SKY SPORT GOLF
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3897711086/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/729945219/index.m3u8
 
 #EXTINF:-1 tvg-id="sky.sport.golf.it" tvg-name="SKY SPORT GOLF" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-golf-it.png" group-title="Sport",SKY SPORT GOLF (2)
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/729945219/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3897711086/index.m3u8
 
 #EXTINF:-1 tvg-id="sky.sport.max.it" tvg-name="SKY SPORT MAX" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-max-it.png" group-title="Sport",SKY SPORT MAX
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2066326916/index.m3u8
@@ -322,19 +322,19 @@ https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2090703806/
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://nfsnew.newkso.ru/nfs/premium575/mono.m3u8
 
 #EXTINF:-1 tvg-id="sky.sport.nba.it" tvg-name="SKY SPORT NBA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-nba-it.png" group-title="Sport",SKY SPORT NBA
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/326825326/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2711959620/index.m3u8
 
 #EXTINF:-1 tvg-id="sky.sport.nba.it" tvg-name="SKY SPORT NBA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-nba-it.png" group-title="Sport",SKY SPORT NBA (2)
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2711959620/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/326825326/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY SPORT SERIE A" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-serie-a-it.png" group-title="Sport",SKY SPORT SERIE A
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2077387085/index.m3u8
 
 #EXTINF:-1 tvg-id="sky.sport.tennis.it" tvg-name="SKY SPORT TENNIS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="Sport",SKY SPORT TENNIS
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2100771782/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/78546677/index.m3u8
 
 #EXTINF:-1 tvg-id="sky.sport.tennis.it" tvg-name="SKY SPORT TENNIS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="Sport",SKY SPORT TENNIS (2)
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/78546677/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2100771782/index.m3u8
 
 #EXTINF:-1 tvg-id="sky.sport.tennis.it" tvg-name="SKY SPORT TENNIS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="Sport",SKY SPORT TENNIS (D)
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://ddy6new.newkso.ru/ddy6/premium576/mono.m3u8
@@ -358,10 +358,10 @@ https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://ddy6new.newkso.ru/ddy6/pr
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/558282118/index.m3u8
 
 #EXTINF:-1 tvg-id="sportitalia.it" tvg-name="SPORT ITALIA" tvg-logo="https://play-lh.googleusercontent.com/0IcWROAOpuEcMf2qbOBNQYhrAPUuSmw-zv0f867kUxKSwSTD_chyCDuBP2PScIyWI9k" group-title="Sport",SPORT ITALIA
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2881739927/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3165086929/index.m3u8
 
 #EXTINF:-1 tvg-id="sportitalia.it" tvg-name="SPORT ITALIA" tvg-logo="https://play-lh.googleusercontent.com/0IcWROAOpuEcMf2qbOBNQYhrAPUuSmw-zv0f867kUxKSwSTD_chyCDuBP2PScIyWI9k" group-title="Sport",SPORT ITALIA (2)
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3165086929/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2881739927/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SPORT ITALIA SOLO CALCIO [LIVE DURING EVENTS ONLY]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/SI_Solo_Calcio_logo_%282019%29.svg/1200px-SI_Solo_Calcio_logo_%282019%29.svg.png" group-title="Sport",SPORT ITALIA SOLO CALCIO [LIVE DURING EVENTS ONLY]
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/830949486/index.m3u8
@@ -373,10 +373,10 @@ https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3342849313/
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2198410339/index.m3u8
 
 #EXTINF:-1 tvg-id="supertennis.hd.it" tvg-name="SUPER TENNIS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/super-tennis-it.png" group-title="Sport",SUPER TENNIS
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3213195143/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3009377513/index.m3u8
 
 #EXTINF:-1 tvg-id="supertennis.hd.it" tvg-name="SUPER TENNIS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/super-tennis-it.png" group-title="Sport",SUPER TENNIS (2)
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3009377513/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3213195143/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TENNIS CHANNEL" tvg-logo="https://images.tennis.com/image/upload/t_16-9_768/v1620828532/tenniscom-prd/assets/Fallback/Tennis_Fallback_v6_f5tjzv.jpg" group-title="Sport",TENNIS CHANNEL
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2716316208/index.m3u8
@@ -427,16 +427,16 @@ https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1572866962/
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/86091226/index.m3u8
 
 #EXTINF:-1 tvg-id="sky.atlantic.it" tvg-name="SKY ATLANTIC" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-atlantic-it.png" group-title="Film & Serie TV",SKY ATLANTIC
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1482866609/index.m3u8
-
-#EXTINF:-1 tvg-id="sky.atlantic.it" tvg-name="SKY ATLANTIC" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-atlantic-it.png" group-title="Film & Serie TV",SKY ATLANTIC (2)
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1421393119/index.m3u8
 
+#EXTINF:-1 tvg-id="sky.atlantic.it" tvg-name="SKY ATLANTIC" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-atlantic-it.png" group-title="Film & Serie TV",SKY ATLANTIC (2)
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1482866609/index.m3u8
+
 #EXTINF:-1 tvg-id="sky.cinema.action.it" tvg-name="SKY CINEMA ACTION" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-it.png" group-title="Film & Serie TV",SKY CINEMA ACTION
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1144128726/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3812796171/index.m3u8
 
 #EXTINF:-1 tvg-id="sky.cinema.action.it" tvg-name="SKY CINEMA ACTION" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-it.png" group-title="Film & Serie TV",SKY CINEMA ACTION (2)
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3812796171/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1144128726/index.m3u8
 
 #EXTINF:-1 tvg-id="sky.cinema.action.it" tvg-name="SKY CINEMA ACTION" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-it.png" group-title="Film & Serie TV",SKY CINEMA ACTION (3)
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2242741766/index.m3u8
@@ -463,10 +463,10 @@ https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1235530177/
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://windnew.newkso.ru/wind/premium867/mono.m3u8
 
 #EXTINF:-1 tvg-id="sky.cinema.due.it" tvg-name="SKY CINEMA DUE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-it.png" group-title="Film & Serie TV",SKY CINEMA DUE
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2330574729/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1228534500/index.m3u8
 
 #EXTINF:-1 tvg-id="sky.cinema.due.it" tvg-name="SKY CINEMA DUE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-it.png" group-title="Film & Serie TV",SKY CINEMA DUE (2)
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1228534500/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2330574729/index.m3u8
 
 #EXTINF:-1 tvg-id="sky.cinema.due.+24.it" tvg-name="SKY CINEMA DUE +24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-plus24-it.png" group-title="Film & Serie TV",SKY CINEMA DUE +24
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1078650168/index.m3u8
@@ -484,10 +484,10 @@ https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3216516117/
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://windnew.newkso.ru/wind/premium865/mono.m3u8
 
 #EXTINF:-1 tvg-id="sky.cinema.romance.it" tvg-name="SKY CINEMA ROMANCE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-romance-it.png" group-title="Film & Serie TV",SKY CINEMA ROMANCE
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2890008905/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1281264885/index.m3u8
 
 #EXTINF:-1 tvg-id="sky.cinema.romance.it" tvg-name="SKY CINEMA ROMANCE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-romance-it.png" group-title="Film & Serie TV",SKY CINEMA ROMANCE (2)
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1281264885/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2890008905/index.m3u8
 
 #EXTINF:-1 tvg-id="sky.cinema.romance.it" tvg-name="SKY CINEMA ROMANCE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-romance-it.png" group-title="Film & Serie TV",SKY CINEMA ROMANCE (D)
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://windnew.newkso.ru/wind/premium864/mono.m3u8
@@ -520,10 +520,10 @@ https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1492183364/
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1944682394/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 10" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 10
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2268489342/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/4272937805/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 10" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 10 (2)
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/4272937805/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2268489342/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 12" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 12
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2221901869/index.m3u8
@@ -574,10 +574,10 @@ https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3939513684/
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3251217290/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 7
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3618643172/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/4238969402/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 7 (2)
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/4238969402/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3618643172/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY PRIMAFILA 8" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film & Serie TV",SKY PRIMAFILA 8
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1440779061/index.m3u8
@@ -649,13 +649,13 @@ https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1289777017/
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1744435623/index.m3u8
 
 #EXTINF:-1 tvg-id="cartoonito.it" tvg-name="CARTOONITO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoonito-it.png" group-title="Bambini",CARTOONITO
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1907000512/index.m3u8
-
-#EXTINF:-1 tvg-id="cartoonito.it" tvg-name="CARTOONITO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoonito-it.png" group-title="Bambini",CARTOONITO (2)
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1987220436/index.m3u8
 
-#EXTINF:-1 tvg-id="cartoonito.it" tvg-name="CARTOONITO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoonito-it.png" group-title="Bambini",CARTOONITO (3)
+#EXTINF:-1 tvg-id="cartoonito.it" tvg-name="CARTOONITO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoonito-it.png" group-title="Bambini",CARTOONITO (2)
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2178717282/index.m3u8
+
+#EXTINF:-1 tvg-id="cartoonito.it" tvg-name="CARTOONITO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoonito-it.png" group-title="Bambini",CARTOONITO (3)
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1907000512/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY K2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/k2-it.png" group-title="Bambini",DISCOVERY K2
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3037871903/index.m3u8
@@ -802,10 +802,10 @@ https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/4031388312/
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3656080408/index.m3u8
 
 #EXTINF:-1 tvg-id="rtl.102.5.hd.it" tvg-name="RTL 102.5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rtl-1025-it.png" group-title="Musica",RTL 102.5
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3168132911/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1729811452/index.m3u8
 
 #EXTINF:-1 tvg-id="rtl.102.5.hd.it" tvg-name="RTL 102.5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rtl-1025-it.png" group-title="Musica",RTL 102.5 (2)
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1729811452/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3168132911/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TELE RADIO SCIACCA" tvg-logo="https://pbs.twimg.com/profile_images/613988173203423232/rWCQ9j6h_400x400.png" group-title="Musica",TELE RADIO SCIACCA
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3990509931/index.m3u8
@@ -964,19 +964,19 @@ https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2982550433/
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3439223610/index.m3u8
 
 #EXTINF:-1 tvg-id="food.network.it" tvg-name="FOOD NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Food_Network_-_Logo_2016.png" group-title="Altro",FOOD NETWORK
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2820683351/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2767861049/index.m3u8
 
 #EXTINF:-1 tvg-id="food.network.it" tvg-name="FOOD NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Food_Network_-_Logo_2016.png" group-title="Altro",FOOD NETWORK (2)
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2767861049/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2820683351/index.m3u8
 
 #EXTINF:-1 tvg-id="france24.it" tvg-name="FRANCE 24" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/france/france-24-fr.png?raw=true" group-title="Altro",FRANCE 24
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2179686828/index.m3u8
 
 #EXTINF:-1 tvg-id="giallo.it" tvg-name="GIALLO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/giallo-it.png" group-title="Altro",GIALLO
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/4060499455/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2373936189/index.m3u8
 
 #EXTINF:-1 tvg-id="giallo.it" tvg-name="GIALLO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/giallo-it.png" group-title="Altro",GIALLO (2)
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2373936189/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/4060499455/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="GLOBUS TELEVISION" tvg-logo="https://ennapress.it/wp-content/uploads/2020/10/globus.png" group-title="Altro",GLOBUS TELEVISION
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2116902817/index.m3u8
@@ -1054,10 +1054,10 @@ https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2835333400/
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3648324945/index.m3u8
 
 #EXTINF:-1 tvg-id="motor.trend.it" tvg-name="MOTORTREND" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Motor_Trend_logo.svg/2560px-Motor_Trend_logo.svg.png" group-title="Altro",MOTORTREND
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3758728323/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3889279895/index.m3u8
 
 #EXTINF:-1 tvg-id="motor.trend.it" tvg-name="MOTORTREND" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Motor_Trend_logo.svg/2560px-Motor_Trend_logo.svg.png" group-title="Altro",MOTORTREND (2)
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3889279895/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3758728323/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ONDA NOVARA TV" tvg-logo="https://gag-fondazionedeagostini.s3.amazonaws.com/wp-content/uploads/2023/03/logo-Onda-Novara-TV-Ufficiale-1.png" group-title="Altro",ONDA NOVARA TV
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3134124967/index.m3u8
@@ -1120,10 +1120,10 @@ https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2165549789/
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3075118500/index.m3u8
 
 #EXTINF:-1 tvg-id="rete.4.it" tvg-name="RETE 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rete4-it.png" group-title="Altro",RETE 4
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2235732004/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/4198218214/index.m3u8
 
 #EXTINF:-1 tvg-id="rete.4.it" tvg-name="RETE 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rete4-it.png" group-title="Altro",RETE 4 (2)
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/4198218214/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2235732004/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="RETE ORO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkE5wuUMIVAtANMfpSL4T5bIO73owXBhpvEg&s" group-title="Altro",RETE ORO
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3351863213/index.m3u8
@@ -1414,7 +1414,7 @@ https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://dokko1new.newkso.ru/dokko
 #EXTINF:-1 tvg-id="chileprimeradivisionhuachipatovsublense" tvg-name="Chile - Primera Division : Huachipato vs Ñublense (18:30)" tvg-logo="https://raw.githubusercontent.com/nicovasco/TVNIK/main/logos/Huachipato_vs_Ñublense.png" group-title="Eventi Live",Chile - Primera Division : Huachipato vs Ñublense (18:30)
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://dokko1new.newkso.ru/dokko1/premium642/mono.m3u8
 
-#EXTINF:-1 tvg-id="worldsoccershowsuefachampionsleaguetodayprematch" tvg-name="World - Soccer Shows : UEFA Champions League Today Pre-Match (19:00)" tvg-logo="https://uploads-ssl.webflow.com/62ec3361b018b33ae7c8ee7e/62ec36b6e73b133e5e66a887_full_transparent-min.png" group-title="Eventi Live",World - Soccer Shows : UEFA Champions League Today Pre-Match (19:00)
+#EXTINF:-1 tvg-id="worldsoccershowsuefachampionsleaguetodayprematch" tvg-name="World - Soccer Shows : UEFA Champions League Today Pre-Match (19:00)" tvg-logo="http://logos-download.com/wp-content/uploads/2016/06/FIFA_World_Cup_Russia_2018_logo_football_soccer.png" group-title="Eventi Live",World - Soccer Shows : UEFA Champions League Today Pre-Match (19:00)
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://zekonew.newkso.ru/zeko/premium910/mono.m3u8
 
 #EXTINF:-1 tvg-id="uruguayprimeradivisionprogresovsdanubio" tvg-name="Uruguay - Primera Division : Progreso vs Danubio (20:00)" tvg-logo="https://raw.githubusercontent.com/nicovasco/TVNIK/main/logos/Progreso_vs_Danubio.png" group-title="Eventi Live",Uruguay - Primera Division : Progreso vs Danubio (20:00)
@@ -1450,7 +1450,7 @@ https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://nfsnew.newkso.ru/nfs/prem
 #EXTINF:-1 tvg-id="uefachampionsleaguefinalpsgvsinternazionale" tvg-name="UEFA Champions League Final : PSG vs Internazionale (21:00)" tvg-logo="https://raw.githubusercontent.com/nicovasco/TVNIK/main/logos/PSG_vs_Internazionale.png" group-title="Eventi Live",UEFA Champions League Final : PSG vs Internazionale (21:00)
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://windnew.newkso.ru/wind/premium87/mono.m3u8
 
-#EXTINF:-1 tvg-id="worldsoccershowsthechampionsclub" tvg-name="World - Soccer Shows : The Champions Club (21:00)" tvg-logo="https://uploads-ssl.webflow.com/62ec3361b018b33ae7c8ee7e/62ec36b6e73b133e5e66a887_full_transparent-min.png" group-title="Eventi Live",World - Soccer Shows : The Champions Club (21:00)
+#EXTINF:-1 tvg-id="worldsoccershowsthechampionsclub" tvg-name="World - Soccer Shows : The Champions Club (21:00)" tvg-logo="http://logos-download.com/wp-content/uploads/2016/06/FIFA_World_Cup_Russia_2018_logo_football_soccer.png" group-title="Eventi Live",World - Soccer Shows : The Champions Club (21:00)
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://zekonew.newkso.ru/zeko/premium910/mono.m3u8
 
 #EXTINF:-1 tvg-id="chileprimeradivisionuniversidadchilevsohiggins" tvg-name="Chile - Primera Division : Universidad Chile vs O'Higgins (21:00)" tvg-logo="https://raw.githubusercontent.com/nicovasco/TVNIK/main/logos/Universidad Chile_vs_O'Higgins.png" group-title="Eventi Live",Chile - Primera Division : Universidad Chile vs O'Higgins (21:00)
@@ -1483,27 +1483,6 @@ https://exemple.m3u8
 #EXTINF:-1 tvg-name="Motorsport" group-title="Eventi Live",--- Motorsport ---
 https://exemple.m3u8
 
-#EXTINF:-1 tvg-id="formula1aramcospanishgrandprixpractice3" tvg-name="Formula 1 : Aramco Spanish Grand Prix - Practice 3 (12:30)" tvg-logo="https://logospng.org/download/formula-1/formula-1-4096.png" group-title="Eventi Live",Formula 1 : Aramco Spanish Grand Prix - Practice 3 (12:30)
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://windnew.newkso.ru/wind/premium60/mono.m3u8
-
-#EXTINF:-1 tvg-id="formula1aramcospanishgrandprixpractice3" tvg-name="Formula 1 : Aramco Spanish Grand Prix - Practice 3 (12:30)" tvg-logo="https://logospng.org/download/formula-1/formula-1-4096.png" group-title="Eventi Live",Formula 1 : Aramco Spanish Grand Prix - Practice 3 (12:30)
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://windnew.newkso.ru/wind/premium45/mono.m3u8
-
-#EXTINF:-1 tvg-id="formula1aramcospanishgrandprixpractice3" tvg-name="Formula 1 : Aramco Spanish Grand Prix - Practice 3 (12:30)" tvg-logo="https://logospng.org/download/formula-1/formula-1-4096.png" group-title="Eventi Live",Formula 1 : Aramco Spanish Grand Prix - Practice 3 (12:30)
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://nfsnew.newkso.ru/nfs/premium577/mono.m3u8
-
-#EXTINF:-1 tvg-id="indynxtserieschevroletdetroitgrandprixpractice2" tvg-name="Indy NXT Series Chevrolet Detroit Grand Prix, Practice 2 (14:00)" tvg-logo="https://static.flashscore.com/res/image/data/IizuoIkd-YV4U8L6m.png" group-title="Eventi Live",Indy NXT Series Chevrolet Detroit Grand Prix, Practice 2 (14:00)
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://zekonew.newkso.ru/zeko/premium39/mono.m3u8
-
-#EXTINF:-1 tvg-id="formula2aramcospanishgrandprixsprintrace" tvg-name="Formula 2 : Aramco Spanish Grand Prix - Sprint Race (14:15)" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/3iwfjg1536242234.png" group-title="Eventi Live",Formula 2 : Aramco Spanish Grand Prix - Sprint Race (14:15)
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://windnew.newkso.ru/wind/premium60/mono.m3u8
-
-#EXTINF:-1 tvg-id="formula2aramcospanishgrandprixsprintrace" tvg-name="Formula 2 : Aramco Spanish Grand Prix - Sprint Race (14:15)" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/3iwfjg1536242234.png" group-title="Eventi Live",Formula 2 : Aramco Spanish Grand Prix - Sprint Race (14:15)
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://nfsnew.newkso.ru/nfs/premium577/mono.m3u8
-
-#EXTINF:-1 tvg-id="ferrarichallengeeuropecoppashellbrnocircuitintheczechia" tvg-name="Ferrari Challenge Europe Coppa Shell - Brno Circuit in the Czechia (14:00)" tvg-logo="https://emsraceteam.com/wp-content/uploads/2020/09/coppa_shell_championship_logo.png" group-title="Eventi Live",Ferrari Challenge Europe Coppa Shell - Brno Circuit in the Czechia (14:00)
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://windnew.newkso.ru/wind/premium60/mono.m3u8
-
 #EXTINF:-1 tvg-id="ferrarichallengeeuropecoppashellbrnocircuitintheczechia" tvg-name="Ferrari Challenge Europe Coppa Shell - Brno Circuit in the Czechia (15:00)" tvg-logo="https://emsraceteam.com/wp-content/uploads/2020/09/coppa_shell_championship_logo.png" group-title="Eventi Live",Ferrari Challenge Europe Coppa Shell - Brno Circuit in the Czechia (15:00)
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://windnew.newkso.ru/wind/premium60/mono.m3u8
 
@@ -1528,28 +1507,22 @@ https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://nfsnew.newkso.ru/nfs/prem
 #EXTINF:-1 tvg-name="Golf" group-title="Eventi Live",--- Golf ---
 https://exemple.m3u8
 
-#EXTINF:-1 tvg-id="dpworldtouraustrianalpineopenpresentedbysalzburgerlans" tvg-name="DP World Tour Austrian Alpine Open Presented By SalzburgerLans (13:00)" tvg-logo="https://www.europeantour.com/Images/Flags/AUT_64x64_2x.png" group-title="Eventi Live",DP World Tour Austrian Alpine Open Presented By SalzburgerLans (13:00)
+#EXTINF:-1 tvg-id="lpgatouruswomensopenpresentedbyally" tvg-name="LPGA Tour U.S. Women's Open presented by Ally (19:00)" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ladies-professional-golf-association-1-logo-png-transparent.png" group-title="Eventi Live",LPGA Tour U.S. Women's Open presented by Ally (19:00)
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://windnew.newkso.ru/wind/premium70/mono.m3u8
 
-#EXTINF:-1 tvg-id="dpworldtouraustrianalpineopenpresentedbysalzburgerlans" tvg-name="DP World Tour Austrian Alpine Open Presented By SalzburgerLans (13:00)" tvg-logo="https://www.europeantour.com/Images/Flags/AUT_64x64_2x.png" group-title="Eventi Live",DP World Tour Austrian Alpine Open Presented By SalzburgerLans (13:00)
+#EXTINF:-1 tvg-id="lpgatouruswomensopenpresentedbyally" tvg-name="LPGA Tour U.S. Women's Open presented by Ally (19:00)" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ladies-professional-golf-association-1-logo-png-transparent.png" group-title="Eventi Live",LPGA Tour U.S. Women's Open presented by Ally (19:00)
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://zekonew.newkso.ru/zeko/premium318/mono.m3u8
-
-#EXTINF:-1 tvg-id="lpgatouruswomensopenpresentedbyally" tvg-name="LPGA Tour U.S. Women's Open presented by Ally (19:00)" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/hdnc211555580691.png" group-title="Eventi Live",LPGA Tour U.S. Women's Open presented by Ally (19:00)
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://windnew.newkso.ru/wind/premium70/mono.m3u8
-
-#EXTINF:-1 tvg-id="lpgatouruswomensopenpresentedbyally" tvg-name="LPGA Tour U.S. Women's Open presented by Ally (19:00)" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/hdnc211555580691.png" group-title="Eventi Live",LPGA Tour U.S. Women's Open presented by Ally (19:00)
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://zekonew.newkso.ru/zeko/premium318/mono.m3u8
-
-#EXTINF:-1 tvg-id="lpgatouruswomensopenpresentedbyally" tvg-name="LPGA Tour U.S. Women's Open presented by Ally (21:00)" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/hdnc211555580691.png" group-title="Eventi Live",LPGA Tour U.S. Women's Open presented by Ally (21:00)
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://zekonew.newkso.ru/zeko/premium769/mono.m3u8
 
 #EXTINF:-1 tvg-id="lpgatouruswomensopenpresentedbyally" tvg-name="LPGA Tour U.S. Women's Open presented by Ally (21:00)" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ladies-professional-golf-association-1-logo-png-transparent.png" group-title="Eventi Live",LPGA Tour U.S. Women's Open presented by Ally (21:00)
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://zekonew.newkso.ru/zeko/premium769/mono.m3u8
+
+#EXTINF:-1 tvg-id="lpgatouruswomensopenpresentedbyally" tvg-name="LPGA Tour U.S. Women's Open presented by Ally (21:00)" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/hdnc211555580691.png" group-title="Eventi Live",LPGA Tour U.S. Women's Open presented by Ally (21:00)
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://windnew.newkso.ru/wind/premium53/mono.m3u8
 
 #EXTINF:-1 tvg-id="lpgatouruswomensopenpresentedbyally" tvg-name="LPGA Tour U.S. Women's Open presented by Ally (21:00)" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/hdnc211555580691.png" group-title="Eventi Live",LPGA Tour U.S. Women's Open presented by Ally (21:00)
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://windnew.newkso.ru/wind/premium70/mono.m3u8
 
-#EXTINF:-1 tvg-id="lpgatouruswomensopenpresentedbyally" tvg-name="LPGA Tour U.S. Women's Open presented by Ally (21:00)" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/hdnc211555580691.png" group-title="Eventi Live",LPGA Tour U.S. Women's Open presented by Ally (21:00)
+#EXTINF:-1 tvg-id="lpgatouruswomensopenpresentedbyally" tvg-name="LPGA Tour U.S. Women's Open presented by Ally (21:00)" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ladies-professional-golf-association-1-logo-png-transparent.png" group-title="Eventi Live",LPGA Tour U.S. Women's Open presented by Ally (21:00)
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://zekonew.newkso.ru/zeko/premium318/mono.m3u8
 
 #EXTINF:-1 tvg-name="Am. Football" group-title="Eventi Live",--- Am. Football ---
@@ -1603,7 +1576,7 @@ https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://dokko1new.newkso.ru/dokko
 #EXTINF:-1 tvg-id="collegebaseballncaatournamentregionalteamstba" tvg-name="College Baseball NCAA Tournament, Regional: Teams TBA (21:00)" tvg-logo="https://logodix.com/logo/706088.png" group-title="Eventi Live",College Baseball NCAA Tournament, Regional: Teams TBA (21:00)
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://zekonew.newkso.ru/zeko/premium316/mono.m3u8
 
-#EXTINF:-1 tvg-id="collegebaseballncaatournamentregionalteamstba" tvg-name="College Baseball NCAA Tournament, Regional: Teams TBA (21:00)" tvg-logo="https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/baseball.png" group-title="Eventi Live",College Baseball NCAA Tournament, Regional: Teams TBA (21:00)
+#EXTINF:-1 tvg-id="collegebaseballncaatournamentregionalteamstba" tvg-name="College Baseball NCAA Tournament, Regional: Teams TBA (21:00)" tvg-logo="https://logodix.com/logo/706088.png" group-title="Eventi Live",College Baseball NCAA Tournament, Regional: Teams TBA (21:00)
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://windnew.newkso.ru/wind/premium45/mono.m3u8
 
 #EXTINF:-1 tvg-id="mlbchicagocubsvscincinnatireds" tvg-name="MLB : Chicago Cubs vs Cincinnati Reds (20:20)" tvg-logo="https://raw.githubusercontent.com/nicovasco/TVNIK/main/logos/Chicago Cubs_vs_Cincinnati Reds.png" group-title="Eventi Live",MLB : Chicago Cubs vs Cincinnati Reds (20:20)
@@ -1660,20 +1633,8 @@ https://exemple.m3u8
 #EXTINF:-1 tvg-id="loughboroughlightningvsnottinghamforestnetball" tvg-name="Loughborough Lightning vs Nottingham Forest Netball (17:00)" tvg-logo="https://raw.githubusercontent.com/nicovasco/TVNIK/main/logos/Loughborough Lightning_vs_Nottingham Forest Netball.png" group-title="Eventi Live",Loughborough Lightning vs Nottingham Forest Netball (17:00)
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://nfsnew.newkso.ru/nfs/premium37/mono.m3u8
 
-#EXTINF:-1 tvg-name="Gymnastics" group-title="Eventi Live",--- Gymnastics ---
-https://exemple.m3u8
-
-#EXTINF:-1 tvg-id="europeanartisticgymnasticschampionshipsindividualdevicecompetitionfinalday2" tvg-name="European Artistic Gymnastics Championships Individual Device Competition (Final - Day 2) (13:00)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5c/2019_European_Artistic_Gymnastics_Championships.png" group-title="Eventi Live",European Artistic Gymnastics Championships Individual Device Competition (Final - Day 2) (13:00)
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://dokko1new.newkso.ru/dokko1/premium357/mono.m3u8
-
 #EXTINF:-1 tvg-name="Horse Racing" group-title="Eventi Live",--- Horse Racing ---
 https://exemple.m3u8
-
-#EXTINF:-1 tvg-id="liveracingfromhaydockyorklistowelstratfordandtramore" tvg-name="Live racing from Haydock, York, Listowel, Stratford and Tramore (13:45)" tvg-logo="https://listowelraces.ie/wp-content/uploads/2023/09/Logo-final-colour-on-white-McManus-Bookmakers-3.png" group-title="Eventi Live",Live racing from Haydock, York, Listowel, Stratford and Tramore (13:45)
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://zekonew.newkso.ru/zeko/premium555/mono.m3u8
-
-#EXTINF:-1 tvg-id="liveracingfromaroundtheuk" tvg-name="Live racing from around the UK (14:00)" tvg-logo="https://www.irishracing.com/images/icon.png" group-title="Eventi Live",Live racing from around the UK (14:00)
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://windnew.newkso.ru/wind/premium554/mono.m3u8
 
 #EXTINF:-1 tvg-id="liveracingfromhaydockyorkandchester" tvg-name="Live racing from Haydock, York and Chester (14:30)" tvg-logo="https://chesterraftrace.org.uk/wp-content/uploads/2022/03/Raft-Race-Logo-2.png" group-title="Eventi Live",Live racing from Haydock, York and Chester (14:30)
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://dokko1new.newkso.ru/dokko1/premium350/mono.m3u8
@@ -1705,9 +1666,6 @@ https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://dokko1new.newkso.ru/dokko
 #EXTINF:-1 tvg-name="Rugby Union" group-title="Eventi Live",--- Rugby Union ---
 https://exemple.m3u8
 
-#EXTINF:-1 tvg-id="unitedrugbychampionshipbullsvsedinburgh" tvg-name="United Rugby Championship : Bulls vs Edinburgh (13:30)" tvg-logo="https://raw.githubusercontent.com/nicovasco/TVNIK/main/logos/Bulls_vs_Edinburgh.png" group-title="Eventi Live",United Rugby Championship : Bulls vs Edinburgh (13:30)
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://windnew.newkso.ru/wind/premium451/mono.m3u8
-
 #EXTINF:-1 tvg-id="unitedrugbychampionshipleinstervsscarlets" tvg-name="United Rugby Championship : Leinster vs Scarlets (16:00)" tvg-logo="https://raw.githubusercontent.com/nicovasco/TVNIK/main/logos/Leinster_vs_Scarlets.png" group-title="Eventi Live",United Rugby Championship : Leinster vs Scarlets (16:00)
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://windnew.newkso.ru/wind/premium451/mono.m3u8
 
@@ -1720,10 +1678,10 @@ https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://dokko1new.newkso.ru/dokko
 #EXTINF:-1 tvg-id="avivapremiershiprugbysaracensvsbath" tvg-name="Aviva Premiership Rugby : Saracens vs Bath (16:05)" tvg-logo="https://raw.githubusercontent.com/nicovasco/TVNIK/main/logos/Saracens_vs_Bath.png" group-title="Eventi Live",Aviva Premiership Rugby : Saracens vs Bath (16:05)
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://ddy6new.newkso.ru/ddy6/premium212/mono.m3u8
 
-#EXTINF:-1 tvg-id="avivapremiershiprugbyleicestertigersvsnewcastlefalcons" tvg-name="Aviva Premiership Rugby : Leicester Tigers vs Newcastle Falcons (16:05)" tvg-logo="https://careers-in-sport.co.uk/wp-content/uploads/2017/11/Leicester-Tigers-logo.png" group-title="Eventi Live",Aviva Premiership Rugby : Leicester Tigers vs Newcastle Falcons (16:05)
+#EXTINF:-1 tvg-id="avivapremiershiprugbyleicestertigersvsnewcastlefalcons" tvg-name="Aviva Premiership Rugby : Leicester Tigers vs Newcastle Falcons (16:05)" group-title="Eventi Live",Aviva Premiership Rugby : Leicester Tigers vs Newcastle Falcons (16:05)
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://nfsnew.newkso.ru/nfs/premium13/mono.m3u8
 
-#EXTINF:-1 tvg-id="avivapremiershiprugbygloucestervsnorthamptonsaints" tvg-name="Aviva Premiership Rugby : Gloucester vs Northampton Saints (16:05)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/Northampton_RFC_Logo.png/revision/latest?cb=20200614111303" group-title="Eventi Live",Aviva Premiership Rugby : Gloucester vs Northampton Saints (16:05)
+#EXTINF:-1 tvg-id="avivapremiershiprugbygloucestervsnorthamptonsaints" tvg-name="Aviva Premiership Rugby : Gloucester vs Northampton Saints (16:05)" tvg-logo="https://iconape.com/wp-content/png_logo_vector/northampton-saints-logo.png" group-title="Eventi Live",Aviva Premiership Rugby : Gloucester vs Northampton Saints (16:05)
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://nfsnew.newkso.ru/nfs/premium14/mono.m3u8
 
 #EXTINF:-1 tvg-id="avivapremiershiprugbyexeterchiefsvssalesharks" tvg-name="Aviva Premiership Rugby : Exeter Chiefs vs Sale Sharks (16:05)" tvg-logo="https://raw.githubusercontent.com/nicovasco/TVNIK/main/logos/Exeter Chiefs_vs_Sale Sharks.png" group-title="Eventi Live",Aviva Premiership Rugby : Exeter Chiefs vs Sale Sharks (16:05)
@@ -1741,7 +1699,7 @@ https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://windnew.newkso.ru/wind/pr
 #EXTINF:-1 tvg-name="Triathlon" group-title="Eventi Live",--- Triathlon ---
 https://exemple.m3u8
 
-#EXTINF:-1 tvg-id="t100triathlonworldtoursanfrancisco2025" tvg-name="T100 Triathlon World Tour | San Francisco 2025 (14:45)" tvg-logo="https://content.protriathletes.org/content/images/2024/09/b338e080-8dcf-4b6c-b649-d41bcae3d29c.png" group-title="Eventi Live",T100 Triathlon World Tour | San Francisco 2025 (14:45)
+#EXTINF:-1 tvg-id="t100triathlonworldtoursanfrancisco2025" tvg-name="T100 Triathlon World Tour | San Francisco 2025 (14:45)" tvg-logo="https://content.protriathletes.org/content/images/2024/05/9e4f66d3-1951-404e-ba4f-ae1595e94eae.png" group-title="Eventi Live",T100 Triathlon World Tour | San Francisco 2025 (14:45)
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://nfsnew.newkso.ru/nfs/premium32/mono.m3u8
 
 
@@ -2005,10 +1963,10 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63724270c
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2346570201/index.m3u8
 
 #EXTINF:-1 tvg-name="24 KITCHEN" group-title="Albania", 24 KITCHEN
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1629878879/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1845492017/index.m3u8
 
 #EXTINF:-1 tvg-name="24 KITCHEN" group-title="Albania", 24 KITCHEN
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1845492017/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1629878879/index.m3u8
 
 #EXTINF:-1 tvg-name="3 PLUS (1)" group-title="Albania", 3 PLUS (1)
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3601055712/index.m3u8
@@ -2017,10 +1975,10 @@ https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3601055712/
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2714068534/index.m3u8
 
 #EXTINF:-1 tvg-name="A2 CNN" group-title="Albania", A2 CNN
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3267133133/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3630529072/index.m3u8
 
 #EXTINF:-1 tvg-name="A2 CNN" group-title="Albania", A2 CNN
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3630529072/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3267133133/index.m3u8
 
 #EXTINF:-1 tvg-name="ABC" group-title="Albania", ABC
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/4170672753/index.m3u8
@@ -2143,10 +2101,10 @@ https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/548736625/i
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3401365170/index.m3u8
 
 #EXTINF:-1 tvg-name="ART SPORT 3" group-title="Albania", ART SPORT 3
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/500508609/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2936728299/index.m3u8
 
 #EXTINF:-1 tvg-name="ART SPORT 3" group-title="Albania", ART SPORT 3
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2936728299/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/500508609/index.m3u8
 
 #EXTINF:-1 tvg-name="ART SPORT 3 HD (1)" group-title="Albania", ART SPORT 3 HD (1)
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/102151724/index.m3u8
@@ -2215,10 +2173,10 @@ https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2409719353/
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/4104386390/index.m3u8
 
 #EXTINF:-1 tvg-name="BESA TV" group-title="Albania", BESA TV
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2714601883/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2046985544/index.m3u8
 
 #EXTINF:-1 tvg-name="BESA TV" group-title="Albania", BESA TV
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2046985544/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2714601883/index.m3u8
 
 #EXTINF:-1 tvg-name="BIG BROTHER (1)" group-title="Albania", BIG BROTHER (1)
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2550632094/index.m3u8
@@ -2455,10 +2413,10 @@ https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1341499575/
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1695721742/index.m3u8
 
 #EXTINF:-1 tvg-name="EUROSPORT 1" group-title="Albania", EUROSPORT 1
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3227015820/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1921488806/index.m3u8
 
 #EXTINF:-1 tvg-name="EUROSPORT 1" group-title="Albania", EUROSPORT 1
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1921488806/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3227015820/index.m3u8
 
 #EXTINF:-1 tvg-name="EUROSPORT 1 (1)" group-title="Albania", EUROSPORT 1 (1)
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/932736266/index.m3u8
@@ -2824,10 +2782,10 @@ https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/4212188508/
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/4241027656/index.m3u8
 
 #EXTINF:-1 tvg-name="KANAL D DRAMA" group-title="Albania", KANAL D DRAMA
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2556265704/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3007582774/index.m3u8
 
 #EXTINF:-1 tvg-name="KANAL D DRAMA" group-title="Albania", KANAL D DRAMA
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3007582774/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2556265704/index.m3u8
 
 #EXTINF:-1 tvg-name="KANALI 7" group-title="Albania", KANALI 7
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2677334340/index.m3u8
@@ -2884,10 +2842,10 @@ https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3335774691/
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3302471423/index.m3u8
 
 #EXTINF:-1 tvg-name="KLAN PLUS" group-title="Albania", KLAN PLUS
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1974890814/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2008163874/index.m3u8
 
 #EXTINF:-1 tvg-name="KLAN PLUS" group-title="Albania", KLAN PLUS
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2008163874/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1974890814/index.m3u8
 
 #EXTINF:-1 tvg-name="KLAN PLUS HD (1)" group-title="Albania", KLAN PLUS HD (1)
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1728418097/index.m3u8
@@ -3079,10 +3037,10 @@ https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1243545244/
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/344556301/index.m3u8
 
 #EXTINF:-1 tvg-name="MY MUSIC" group-title="Albania", MY MUSIC
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3383574772/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3463796704/index.m3u8
 
 #EXTINF:-1 tvg-name="MY MUSIC" group-title="Albania", MY MUSIC
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3463796704/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3383574772/index.m3u8
 
 #EXTINF:-1 tvg-name="NAEEM (1)" group-title="Albania", NAEEM (1)
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3663179118/index.m3u8
@@ -3232,10 +3190,10 @@ https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1849114921/
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/832443653/index.m3u8
 
 #EXTINF:-1 tvg-name="RTK 1" group-title="Albania", RTK 1
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/335723640/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2043559355/index.m3u8
 
 #EXTINF:-1 tvg-name="RTK 1" group-title="Albania", RTK 1
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2043559355/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/335723640/index.m3u8
 
 #EXTINF:-1 tvg-name="RTK 1 (1)" group-title="Albania", RTK 1 (1)
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2430389054/index.m3u8
@@ -3355,10 +3313,10 @@ https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1737553037/
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1800075235/index.m3u8
 
 #EXTINF:-1 tvg-name="RTSH SPORT" group-title="Albania", RTSH SPORT
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1868852854/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1673424152/index.m3u8
 
 #EXTINF:-1 tvg-name="RTSH SPORT" group-title="Albania", RTSH SPORT
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1673424152/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1868852854/index.m3u8
 
 #EXTINF:-1 tvg-name="RTV 2 MIX" group-title="Albania", RTV 2 MIX
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2365781947/index.m3u8
@@ -8668,10 +8626,10 @@ https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3677791084/
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2669560148/index.m3u8
 
 #EXTINF:-1 tvg-name="CINESTAR TV 2" group-title="Balkans", CINESTAR TV 2
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/4087852378/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3636345732/index.m3u8
 
 #EXTINF:-1 tvg-name="CINESTAR TV 2" group-title="Balkans", CINESTAR TV 2
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3636345732/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/4087852378/index.m3u8
 
 #EXTINF:-1 tvg-name="CINESTAR TV ACTION" group-title="Balkans", CINESTAR TV ACTION
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3735821845/index.m3u8
@@ -8761,10 +8719,10 @@ https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3126312793/
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/280202434/index.m3u8
 
 #EXTINF:-1 tvg-name="DOCUBOX" group-title="Balkans", DOCUBOX
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3222785648/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/467190435/index.m3u8
 
 #EXTINF:-1 tvg-name="DOCUBOX" group-title="Balkans", DOCUBOX
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/467190435/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3222785648/index.m3u8
 
 #EXTINF:-1 tvg-name="DOKU TV" group-title="Balkans", DOKU TV
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1778938190/index.m3u8
@@ -8812,10 +8770,10 @@ https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2708573167/
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/330188485/index.m3u8
 
 #EXTINF:-1 tvg-name="EUROSPORT 2" group-title="Balkans", EUROSPORT 2
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3872518463/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1410219029/index.m3u8
 
 #EXTINF:-1 tvg-name="EUROSPORT 2" group-title="Balkans", EUROSPORT 2
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1410219029/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3872518463/index.m3u8
 
 #EXTINF:-1 tvg-name="FACE TV" group-title="Balkans", FACE TV
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/805398492/index.m3u8
@@ -8998,10 +8956,10 @@ https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/789293011/i
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/961900723/index.m3u8
 
 #EXTINF:-1 tvg-name="IZVORNA TV" group-title="Balkans", IZVORNA TV
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2367813923/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2180774477/index.m3u8
 
 #EXTINF:-1 tvg-name="IZVORNA TV" group-title="Balkans", IZVORNA TV
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2180774477/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2367813923/index.m3u8
 
 #EXTINF:-1 tvg-name="JUGOTON TV" group-title="Balkans", JUGOTON TV
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2383601048/index.m3u8
@@ -9160,10 +9118,10 @@ https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3896095046/
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/786558223/index.m3u8
 
 #EXTINF:-1 tvg-name="OBN" group-title="Balkans", OBN
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/360492582/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1749341885/index.m3u8
 
 #EXTINF:-1 tvg-name="OBN" group-title="Balkans", OBN
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1749341885/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/360492582/index.m3u8
 
 #EXTINF:-1 tvg-name="OTV VALENTINO" group-title="Balkans", OTV VALENTINO
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2426904498/index.m3u8
@@ -9652,10 +9610,10 @@ https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/494867044/i
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/4273556163/index.m3u8
 
 #EXTINF:-1 tvg-name="TV 1000" group-title="Balkans", TV 1000
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1998323184/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2899636515/index.m3u8
 
 #EXTINF:-1 tvg-name="TV 1000" group-title="Balkans", TV 1000
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2899636515/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1998323184/index.m3u8
 
 #EXTINF:-1 tvg-name="TV 5" group-title="Balkans", TV 5
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/188345347/index.m3u8
@@ -9844,10 +9802,10 @@ https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3508377609/
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3418660084/index.m3u8
 
 #EXTINF:-1 tvg-name="BNT 3" group-title="Bulgaria", BNT 3
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3967660473/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/4137989444/index.m3u8
 
 #EXTINF:-1 tvg-name="BNT 3" group-title="Bulgaria", BNT 3
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/4137989444/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3967660473/index.m3u8
 
 #EXTINF:-1 tvg-name="BNT 4" group-title="Bulgaria", BNT 4
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1149528404/index.m3u8
@@ -9868,10 +9826,10 @@ https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/131717508/i
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/442015131/index.m3u8
 
 #EXTINF:-1 tvg-name="BTV" group-title="Bulgaria", BTV
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3800908036/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2650040518/index.m3u8
 
 #EXTINF:-1 tvg-name="BTV" group-title="Bulgaria", BTV
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2650040518/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3800908036/index.m3u8
 
 #EXTINF:-1 tvg-name="BTV ACTION" group-title="Bulgaria", BTV ACTION
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/536338491/index.m3u8
@@ -9880,10 +9838,10 @@ https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/536338491/i
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2905091345/index.m3u8
 
 #EXTINF:-1 tvg-name="BTV CINEMA" group-title="Bulgaria", BTV CINEMA
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3652191999/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1802488789/index.m3u8
 
 #EXTINF:-1 tvg-name="BTV CINEMA" group-title="Bulgaria", BTV CINEMA
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1802488789/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3652191999/index.m3u8
 
 #EXTINF:-1 tvg-name="BTV COMEDY" group-title="Bulgaria", BTV COMEDY
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3781507127/index.m3u8
@@ -9922,10 +9880,10 @@ https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/153846227/i
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/934472657/index.m3u8
 
 #EXTINF:-1 tvg-name="CINEMAX" group-title="Bulgaria", CINEMAX
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3533398255/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3577968635/index.m3u8
 
 #EXTINF:-1 tvg-name="CINEMAX" group-title="Bulgaria", CINEMAX
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3577968635/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3533398255/index.m3u8
 
 #EXTINF:-1 tvg-name="CINEMAX 2" group-title="Bulgaria", CINEMAX 2
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3781491829/index.m3u8
@@ -9964,10 +9922,10 @@ https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/379201128/i
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1032040630/index.m3u8
 
 #EXTINF:-1 tvg-name="DIEMA SPORT" group-title="Bulgaria", DIEMA SPORT
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/782948666/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3984233559/index.m3u8
 
 #EXTINF:-1 tvg-name="DIEMA SPORT" group-title="Bulgaria", DIEMA SPORT
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3984233559/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/782948666/index.m3u8
 
 #EXTINF:-1 tvg-name="DIEMA SPORT 2" group-title="Bulgaria", DIEMA SPORT 2
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3591341829/index.m3u8
@@ -9985,10 +9943,10 @@ https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3938899839/
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1337595654/index.m3u8
 
 #EXTINF:-1 tvg-name="DISCOVERY SCIENCE" group-title="Bulgaria", DISCOVERY SCIENCE
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1347565371/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/609687320/index.m3u8
 
 #EXTINF:-1 tvg-name="DISCOVERY SCIENCE" group-title="Bulgaria", DISCOVERY SCIENCE
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/609687320/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1347565371/index.m3u8
 
 #EXTINF:-1 tvg-name="DISCOVERY WORLD" group-title="Bulgaria", DISCOVERY WORLD
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1266114284/index.m3u8
@@ -10030,10 +9988,10 @@ https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1198132906/
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/13268090/index.m3u8
 
 #EXTINF:-1 tvg-name="EVROKOM" group-title="Bulgaria", EVROKOM
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3250423496/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3328545244/index.m3u8
 
 #EXTINF:-1 tvg-name="EVROKOM" group-title="Bulgaria", EVROKOM
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3328545244/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3250423496/index.m3u8
 
 #EXTINF:-1 tvg-name="FEN FOLK" group-title="Bulgaria", FEN FOLK
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1541535727/index.m3u8
@@ -10090,10 +10048,10 @@ https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/4269935167/
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2180719613/index.m3u8
 
 #EXTINF:-1 tvg-name="HBO 2" group-title="Bulgaria", HBO 2
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1822214929/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1984286700/index.m3u8
 
 #EXTINF:-1 tvg-name="HBO 2" group-title="Bulgaria", HBO 2
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1984286700/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1822214929/index.m3u8
 
 #EXTINF:-1 tvg-name="HBO 3" group-title="Bulgaria", HBO 3
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1375527585/index.m3u8
@@ -10150,10 +10108,10 @@ https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3599796967/
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3566525947/index.m3u8
 
 #EXTINF:-1 tvg-name="MAX SPORT 1" group-title="Bulgaria", MAX SPORT 1
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2539971589/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1421125992/index.m3u8
 
 #EXTINF:-1 tvg-name="MAX SPORT 1" group-title="Bulgaria", MAX SPORT 1
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1421125992/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2539971589/index.m3u8
 
 #EXTINF:-1 tvg-name="MAX SPORT 2" group-title="Bulgaria", MAX SPORT 2
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3502546645/index.m3u8
@@ -10213,10 +10171,10 @@ https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/4262594289/
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1036143516/index.m3u8
 
 #EXTINF:-1 tvg-name="NOVA NEWS" group-title="Bulgaria", NOVA NEWS
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2497402570/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2550224292/index.m3u8
 
 #EXTINF:-1 tvg-name="NOVA NEWS" group-title="Bulgaria", NOVA NEWS
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2550224292/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2497402570/index.m3u8
 
 #EXTINF:-1 tvg-name="NOVA SPORT" group-title="Bulgaria", NOVA SPORT
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2771280932/index.m3u8
@@ -10582,10 +10540,10 @@ https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3727168653/
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/940422746/index.m3u8
 
 #EXTINF:-1 tvg-name="ANIMAUX" group-title="France", ANIMAUX
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2309251906/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2474469311/index.m3u8
 
 #EXTINF:-1 tvg-name="ANIMAUX" group-title="France", ANIMAUX
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2474469311/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2309251906/index.m3u8
 
 #EXTINF:-1 tvg-name="ANIMAUX (1)" group-title="France", ANIMAUX (1)
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1553062354/index.m3u8
@@ -11227,10 +11185,10 @@ https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/4129073805/
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/511277245/index.m3u8
 
 #EXTINF:-1 tvg-name="CHASSE & PECHE" group-title="France", CHASSE & PECHE
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3027709212/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2674834370/index.m3u8
 
 #EXTINF:-1 tvg-name="CHASSE & PECHE" group-title="France", CHASSE & PECHE
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2674834370/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3027709212/index.m3u8
 
 #EXTINF:-1 tvg-name="CHASSE ET PECHE (1)" group-title="France", CHASSE ET PECHE (1)
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2716078255/index.m3u8
@@ -11287,10 +11245,10 @@ https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2545617783/
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1152274993/index.m3u8
 
 #EXTINF:-1 tvg-name="CINE+ CLASSIC" group-title="France", CINE+ CLASSIC
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3342642717/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/82633584/index.m3u8
 
 #EXTINF:-1 tvg-name="CINE+ CLASSIC" group-title="France", CINE+ CLASSIC
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/82633584/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3342642717/index.m3u8
 
 #EXTINF:-1 tvg-name="CINE+ CLASSIC FHD" group-title="France", CINE+ CLASSIC FHD
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/581219766/index.m3u8
@@ -11398,10 +11356,10 @@ https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3759226559/
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3681222624/index.m3u8
 
 #EXTINF:-1 tvg-name="COMEDIE+" group-title="France", COMEDIE+
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2839396482/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1928514641/index.m3u8
 
 #EXTINF:-1 tvg-name="COMEDIE+" group-title="France", COMEDIE+
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1928514641/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2839396482/index.m3u8
 
 #EXTINF:-1 tvg-name="COMEDIE+ FHD" group-title="France", COMEDIE+ FHD
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1447555262/index.m3u8
@@ -11419,10 +11377,10 @@ https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1366669684/
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3920977229/index.m3u8
 
 #EXTINF:-1 tvg-name="CRIME DISTRICT" group-title="France", CRIME DISTRICT
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2332499529/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2686355607/index.m3u8
 
 #EXTINF:-1 tvg-name="CRIME DISTRICT" group-title="France", CRIME DISTRICT
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2686355607/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2332499529/index.m3u8
 
 #EXTINF:-1 tvg-name="CRIME DISTRICT (1)" group-title="France", CRIME DISTRICT (1)
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2364923189/index.m3u8
@@ -11662,10 +11620,10 @@ https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2551109620/
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/584773960/index.m3u8
 
 #EXTINF:-1 tvg-name="EUROSPORT 1" group-title="France", EUROSPORT 1
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3513558830/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3719734336/index.m3u8
 
 #EXTINF:-1 tvg-name="EUROSPORT 1" group-title="France", EUROSPORT 1
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3719734336/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3513558830/index.m3u8
 
 #EXTINF:-1 tvg-name="EUROSPORT 1 (1)" group-title="France", EUROSPORT 1 (1)
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2935192752/index.m3u8
@@ -11803,10 +11761,10 @@ https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/46629016/in
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3928989342/index.m3u8
 
 #EXTINF:-1 tvg-name="GAME ONE" group-title="France", GAME ONE
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1479966396/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2214163055/index.m3u8
 
 #EXTINF:-1 tvg-name="GAME ONE" group-title="France", GAME ONE
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2214163055/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1479966396/index.m3u8
 
 #EXTINF:-1 tvg-name="GAME ONE (1)" group-title="France", GAME ONE (1)
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/959272147/index.m3u8
@@ -12184,10 +12142,10 @@ https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1341169782/
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2662111844/index.m3u8
 
 #EXTINF:-1 tvg-name="NAT GEO WILD" group-title="France", NAT GEO WILD
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/4163250572/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1257890982/index.m3u8
 
 #EXTINF:-1 tvg-name="NAT GEO WILD" group-title="France", NAT GEO WILD
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1257890982/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/4163250572/index.m3u8
 
 #EXTINF:-1 tvg-name="NAT GEO WILD FHD" group-title="France", NAT GEO WILD FHD
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2958993581/index.m3u8
@@ -12232,10 +12190,10 @@ https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2600378206/
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3260291200/index.m3u8
 
 #EXTINF:-1 tvg-name="NICKELODEON TEEN" group-title="France", NICKELODEON TEEN
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3401954916/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1840584121/index.m3u8
 
 #EXTINF:-1 tvg-name="NICKELODEON TEEN" group-title="France", NICKELODEON TEEN
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1840584121/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3401954916/index.m3u8
 
 #EXTINF:-1 tvg-name="NICKELODEON TEEN (1)" group-title="France", NICKELODEON TEEN (1)
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2578758168/index.m3u8
@@ -12265,10 +12223,10 @@ https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/4195100803/
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/824018318/index.m3u8
 
 #EXTINF:-1 tvg-name="NRJ HITS" group-title="France", NRJ HITS
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/4032821325/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/730920094/index.m3u8
 
 #EXTINF:-1 tvg-name="NRJ HITS" group-title="France", NRJ HITS
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/730920094/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/4032821325/index.m3u8
 
 #EXTINF:-1 tvg-name="NRJ HITS HD (1)" group-title="France", NRJ HITS HD (1)
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3639203183/index.m3u8
@@ -12319,10 +12277,10 @@ https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2215485637/
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1690567411/index.m3u8
 
 #EXTINF:-1 tvg-name="OCS GEANTS" group-title="France", OCS GEANTS
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1417750562/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1451589438/index.m3u8
 
 #EXTINF:-1 tvg-name="OCS GEANTS" group-title="France", OCS GEANTS
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1451589438/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1417750562/index.m3u8
 
 #EXTINF:-1 tvg-name="OCS GEANTS FHD" group-title="France", OCS GEANTS FHD
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1463363704/index.m3u8
@@ -12460,10 +12418,10 @@ https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1479441370/
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2370188978/index.m3u8
 
 #EXTINF:-1 tvg-name="POLAR+" group-title="France", POLAR+
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2143816874/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/302288233/index.m3u8
 
 #EXTINF:-1 tvg-name="POLAR+" group-title="France", POLAR+
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/302288233/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2143816874/index.m3u8
 
 #EXTINF:-1 tvg-name="POLAR+ FHD" group-title="France", POLAR+ FHD
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3449247132/index.m3u8
@@ -12778,10 +12736,10 @@ https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1389909769/
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1426079773/index.m3u8
 
 #EXTINF:-1 tvg-name="RTL 9" group-title="France", RTL 9
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1631656799/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/506999453/index.m3u8
 
 #EXTINF:-1 tvg-name="RTL 9" group-title="France", RTL 9
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/506999453/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1631656799/index.m3u8
 
 #EXTINF:-1 tvg-name="RTL 9 (1)" group-title="France", RTL 9 (1)
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2938874346/index.m3u8
@@ -12814,10 +12772,10 @@ https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1830664956/
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/466214058/index.m3u8
 
 #EXTINF:-1 tvg-name="SERIE CLUB" group-title="France", SERIE CLUB
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1534887525/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1501090169/index.m3u8
 
 #EXTINF:-1 tvg-name="SERIE CLUB" group-title="France", SERIE CLUB
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1501090169/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1534887525/index.m3u8
 
 #EXTINF:-1 tvg-name="SERIE CLUB (1)" group-title="France", SERIE CLUB (1)
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/328726150/index.m3u8
@@ -12844,19 +12802,19 @@ https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/4226813338/
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/350896249/index.m3u8
 
 #EXTINF:-1 tvg-name="SYFY" group-title="France", SYFY
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3388818951/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3032825500/index.m3u8
 
 #EXTINF:-1 tvg-name="SYFY" group-title="France", SYFY
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3032825500/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3388818951/index.m3u8
 
 #EXTINF:-1 tvg-name="SYFY (1)" group-title="France", SYFY (1)
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2106748611/index.m3u8
 
 #EXTINF:-1 tvg-name="TCM CINEMA" group-title="France", TCM CINEMA
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2418525396/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2451805128/index.m3u8
 
 #EXTINF:-1 tvg-name="TCM CINEMA" group-title="France", TCM CINEMA
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2451805128/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2418525396/index.m3u8
 
 #EXTINF:-1 tvg-name="TCM CINEMA (1)" group-title="France", TCM CINEMA (1)
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3637294135/index.m3u8
@@ -13033,10 +12991,10 @@ https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/4275574479/
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/70655167/index.m3u8
 
 #EXTINF:-1 tvg-name="TV7 COLMAR" group-title="France", TV7 COLMAR
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2804216365/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2770380081/index.m3u8
 
 #EXTINF:-1 tvg-name="TV7 COLMAR" group-title="France", TV7 COLMAR
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2770380081/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2804216365/index.m3u8
 
 #EXTINF:-1 tvg-name="TV78" group-title="France", TV78
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/744802293/index.m3u8
@@ -13096,10 +13054,10 @@ https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/549334828/i
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3383548329/index.m3u8
 
 #EXTINF:-1 tvg-name="WARNER TV" group-title="France", WARNER TV
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2978100125/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3059360905/index.m3u8
 
 #EXTINF:-1 tvg-name="WARNER TV" group-title="France", WARNER TV
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3059360905/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2978100125/index.m3u8
 
 #EXTINF:-1 tvg-name="WARNER TV NEXT" group-title="France", WARNER TV NEXT
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/488364629/index.m3u8
@@ -13156,10 +13114,10 @@ https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3648815838/
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2469693031/index.m3u8
 
 #EXTINF:-1 tvg-name="ANIMAL PLANET" group-title="Germany", ANIMAL PLANET
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1382048336/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2038035598/index.m3u8
 
 #EXTINF:-1 tvg-name="ANIMAL PLANET" group-title="Germany", ANIMAL PLANET
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2038035598/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1382048336/index.m3u8
 
 #EXTINF:-1 tvg-name="ANIMAL PLANET HD (1)" group-title="Germany", ANIMAL PLANET HD (1)
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2440347370/index.m3u8
@@ -13234,10 +13192,10 @@ https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3805773434/
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3056472300/index.m3u8
 
 #EXTINF:-1 tvg-name="BADEN TV" group-title="Germany", BADEN TV
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2177006410/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2249878622/index.m3u8
 
 #EXTINF:-1 tvg-name="BADEN TV" group-title="Germany", BADEN TV
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2249878622/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2177006410/index.m3u8
 
 #EXTINF:-1 tvg-name="BAYERISCHES FERNSEHEN NORD" group-title="Germany", BAYERISCHES FERNSEHEN NORD
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1474407208/index.m3u8
@@ -13399,10 +13357,10 @@ https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1222396230/
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1385797497/index.m3u8
 
 #EXTINF:-1 tvg-name="CARTOON NETWORK" group-title="Germany", CARTOON NETWORK
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/379030969/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2984717924/index.m3u8
 
 #EXTINF:-1 tvg-name="CARTOON NETWORK" group-title="Germany", CARTOON NETWORK
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2984717924/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/379030969/index.m3u8
 
 #EXTINF:-1 tvg-name="CARTOON NETWORK (1)" group-title="Germany", CARTOON NETWORK (1)
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1172734405/index.m3u8
@@ -13504,10 +13462,10 @@ https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3336673893/
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2331252043/index.m3u8
 
 #EXTINF:-1 tvg-name="DAZN 2" group-title="Germany", DAZN 2
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1209157526/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1389052779/index.m3u8
 
 #EXTINF:-1 tvg-name="DAZN 2" group-title="Germany", DAZN 2
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1389052779/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1209157526/index.m3u8
 
 #EXTINF:-1 tvg-name="DAZN 2 (MATCH TIME) HD (1)" group-title="Germany", DAZN 2 (MATCH TIME) HD (1)
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2923762838/index.m3u8
@@ -13699,10 +13657,10 @@ https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3839598777/
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1419294625/index.m3u8
 
 #EXTINF:-1 tvg-name="DMAX" group-title="Germany", DMAX
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1520100498/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/635686224/index.m3u8
 
 #EXTINF:-1 tvg-name="DMAX" group-title="Germany", DMAX
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/635686224/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1520100498/index.m3u8
 
 #EXTINF:-1 tvg-name="DMAX (1)" group-title="Germany", DMAX (1)
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2498778663/index.m3u8
@@ -13951,10 +13909,10 @@ https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3743017750/
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/482977403/index.m3u8
 
 #EXTINF:-1 tvg-name="HGTV" group-title="Germany", HGTV
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1164870618/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/974629400/index.m3u8
 
 #EXTINF:-1 tvg-name="HGTV" group-title="Germany", HGTV
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/974629400/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1164870618/index.m3u8
 
 #EXTINF:-1 tvg-name="HGTV (1)" group-title="Germany", HGTV (1)
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2332307823/index.m3u8
@@ -14071,10 +14029,10 @@ https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1022014852/
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2391686171/index.m3u8
 
 #EXTINF:-1 tvg-name="KIKA" group-title="Germany", KIKA
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3303484794/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3147695288/index.m3u8
 
 #EXTINF:-1 tvg-name="KIKA" group-title="Germany", KIKA
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3147695288/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3303484794/index.m3u8
 
 #EXTINF:-1 tvg-name="KIKA (1)" group-title="Germany", KIKA (1)
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1978971661/index.m3u8
@@ -14122,10 +14080,10 @@ https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1528334905/
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/636744481/index.m3u8
 
 #EXTINF:-1 tvg-name="LIGHT CHANNEL" group-title="Germany", LIGHT CHANNEL
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/4264490284/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3577177074/index.m3u8
 
 #EXTINF:-1 tvg-name="LIGHT CHANNEL" group-title="Germany", LIGHT CHANNEL
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3577177074/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/4264490284/index.m3u8
 
 #EXTINF:-1 tvg-name="MAGENTA FUSSBALL 1 HD (1)" group-title="Germany", MAGENTA FUSSBALL 1 HD (1)
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3136042538/index.m3u8
@@ -14221,10 +14179,10 @@ https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3890301374/
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1706155631/index.m3u8
 
 #EXTINF:-1 tvg-name="MAGENTA SPORT 2" group-title="Germany", MAGENTA SPORT 2
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2335883109/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/743054520/index.m3u8
 
 #EXTINF:-1 tvg-name="MAGENTA SPORT 2" group-title="Germany", MAGENTA SPORT 2
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/743054520/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2335883109/index.m3u8
 
 #EXTINF:-1 tvg-name="MAGENTA SPORT 20" group-title="Germany", MAGENTA SPORT 20
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3545622272/index.m3u8
@@ -14374,10 +14332,10 @@ https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3084650651/
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/825882949/index.m3u8
 
 #EXTINF:-1 tvg-name="NAT GEO" group-title="Germany", NAT GEO
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/999974349/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3763693854/index.m3u8
 
 #EXTINF:-1 tvg-name="NAT GEO" group-title="Germany", NAT GEO
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3763693854/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/999974349/index.m3u8
 
 #EXTINF:-1 tvg-name="NAT GEO (1)" group-title="Germany", NAT GEO (1)
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2169389937/index.m3u8
@@ -14455,10 +14413,10 @@ https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2137936559/
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/855045177/index.m3u8
 
 #EXTINF:-1 tvg-name="NITRO" group-title="Germany", NITRO
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2077464868/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/371136743/index.m3u8
 
 #EXTINF:-1 tvg-name="NITRO" group-title="Germany", NITRO
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/371136743/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2077464868/index.m3u8
 
 #EXTINF:-1 tvg-name="NITRO HEVC (1)" group-title="Germany", NITRO HEVC (1)
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3085198764/index.m3u8
@@ -14467,10 +14425,10 @@ https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3085198764/
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1085431518/index.m3u8
 
 #EXTINF:-1 tvg-name="NOA 4 HAMBURG" group-title="Germany", NOA 4 HAMBURG
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2741142705/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2289767023/index.m3u8
 
 #EXTINF:-1 tvg-name="NOA 4 HAMBURG" group-title="Germany", NOA 4 HAMBURG
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2289767023/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2741142705/index.m3u8
 
 #EXTINF:-1 tvg-name="NOA 4 NORDERSTEDT" group-title="Germany", NOA 4 NORDERSTEDT
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2997620179/index.m3u8
@@ -14542,16 +14500,16 @@ https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/4157022718/
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3479962875/index.m3u8
 
 #EXTINF:-1 tvg-name="ORF 1" group-title="Germany", ORF 1
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3174096793/index.m3u8
-
-#EXTINF:-1 tvg-name="ORF 1" group-title="Germany", ORF 1
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3506200154/index.m3u8
 
-#EXTINF:-1 tvg-name="ORF 2" group-title="Germany", ORF 2
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/4203783497/index.m3u8
+#EXTINF:-1 tvg-name="ORF 1" group-title="Germany", ORF 1
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3174096793/index.m3u8
 
 #EXTINF:-1 tvg-name="ORF 2" group-title="Germany", ORF 2
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2539398282/index.m3u8
+
+#EXTINF:-1 tvg-name="ORF 2" group-title="Germany", ORF 2
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/4203783497/index.m3u8
 
 #EXTINF:-1 tvg-name="ORF 3" group-title="Germany", ORF 3
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3354430713/index.m3u8
@@ -14686,10 +14644,10 @@ https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1923435141/
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1287517758/index.m3u8
 
 #EXTINF:-1 tvg-name="RAKUTEN COMEDY MOVIES" group-title="Germany", RAKUTEN COMEDY MOVIES
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1133586429/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3087996908/index.m3u8
 
 #EXTINF:-1 tvg-name="RAKUTEN COMEDY MOVIES" group-title="Germany", RAKUTEN COMEDY MOVIES
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3087996908/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1133586429/index.m3u8
 
 #EXTINF:-1 tvg-name="RAKUTEN COMEDY MOVIES 2" group-title="Germany", RAKUTEN COMEDY MOVIES 2
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3499073467/index.m3u8
@@ -14836,10 +14794,10 @@ https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1104227509/
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/141752470/index.m3u8
 
 #EXTINF:-1 tvg-name="RTL PASSION" group-title="Germany", RTL PASSION
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1298738683/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/4290175185/index.m3u8
 
 #EXTINF:-1 tvg-name="RTL PASSION" group-title="Germany", RTL PASSION
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/4290175185/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1298738683/index.m3u8
 
 #EXTINF:-1 tvg-name="RTL PASSION (1)" group-title="Germany", RTL PASSION (1)
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3131644541/index.m3u8
@@ -14851,16 +14809,16 @@ https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1244685525/
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1170962566/index.m3u8
 
 #EXTINF:-1 tvg-name="RTL UP" group-title="Germany", RTL UP
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1198260913/index.m3u8
-
-#EXTINF:-1 tvg-name="RTL UP" group-title="Germany", RTL UP
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1572144716/index.m3u8
 
-#EXTINF:-1 tvg-name="RTL ZWEI" group-title="Germany", RTL ZWEI
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2877582637/index.m3u8
+#EXTINF:-1 tvg-name="RTL UP" group-title="Germany", RTL UP
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1198260913/index.m3u8
 
 #EXTINF:-1 tvg-name="RTL ZWEI" group-title="Germany", RTL ZWEI
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2891741753/index.m3u8
+
+#EXTINF:-1 tvg-name="RTL ZWEI" group-title="Germany", RTL ZWEI
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2877582637/index.m3u8
 
 #EXTINF:-1 tvg-name="RTL ZWEI HD (1)" group-title="Germany", RTL ZWEI HD (1)
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/160203873/index.m3u8
@@ -15028,10 +14986,10 @@ https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2060616144/
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/689536659/index.m3u8
 
 #EXTINF:-1 tvg-name="SACHSEN FERNSEHEN" group-title="Germany", SACHSEN FERNSEHEN
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3104407047/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1676133971/index.m3u8
 
 #EXTINF:-1 tvg-name="SACHSEN FERNSEHEN" group-title="Germany", SACHSEN FERNSEHEN
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1676133971/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3104407047/index.m3u8
 
 #EXTINF:-1 tvg-name="SACHSENEINS" group-title="Germany", SACHSENEINS
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2299297180/index.m3u8
@@ -15385,10 +15343,10 @@ https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2735828708/
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3962342087/index.m3u8
 
 #EXTINF:-1 tvg-name="SKY CINEMA ACTION" group-title="Germany", SKY CINEMA ACTION
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1617648799/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3129337035/index.m3u8
 
 #EXTINF:-1 tvg-name="SKY CINEMA ACTION" group-title="Germany", SKY CINEMA ACTION
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3129337035/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1617648799/index.m3u8
 
 #EXTINF:-1 tvg-name="SKY CINEMA ACTION HD (1)" group-title="Germany", SKY CINEMA ACTION HD (1)
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/4140398534/index.m3u8
@@ -15400,10 +15358,10 @@ https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3251224651/
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2277123450/index.m3u8
 
 #EXTINF:-1 tvg-name="SKY CINEMA BEST OF" group-title="Germany", SKY CINEMA BEST OF
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/767567985/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1506084946/index.m3u8
 
 #EXTINF:-1 tvg-name="SKY CINEMA BEST OF" group-title="Germany", SKY CINEMA BEST OF
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1506084946/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/767567985/index.m3u8
 
 #EXTINF:-1 tvg-name="SKY CINEMA BEST OF HD (1)" group-title="Germany", SKY CINEMA BEST OF HD (1)
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/4183661289/index.m3u8
@@ -15433,10 +15391,10 @@ https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/4056474116/
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/758431347/index.m3u8
 
 #EXTINF:-1 tvg-name="SKY CINEMA EMOTION" group-title="Germany", SKY CINEMA EMOTION
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1938198164/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/126070455/index.m3u8
 
 #EXTINF:-1 tvg-name="SKY CINEMA EMOTION" group-title="Germany", SKY CINEMA EMOTION
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/126070455/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1938198164/index.m3u8
 
 #EXTINF:-1 tvg-name="SKY CINEMA EMOTION (1)" group-title="Germany", SKY CINEMA EMOTION (1)
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/750680993/index.m3u8
@@ -15502,10 +15460,10 @@ https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1743038820/
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/4265879600/index.m3u8
 
 #EXTINF:-1 tvg-name="SKY CINEMA SPECIAL" group-title="Germany", SKY CINEMA SPECIAL
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1141836536/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/805972699/index.m3u8
 
 #EXTINF:-1 tvg-name="SKY CINEMA SPECIAL" group-title="Germany", SKY CINEMA SPECIAL
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/805972699/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1141836536/index.m3u8
 
 #EXTINF:-1 tvg-name="SKY CINEMA SPECIAL HD (1)" group-title="Germany", SKY CINEMA SPECIAL HD (1)
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3150979982/index.m3u8
@@ -15577,10 +15535,10 @@ https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3979079292/
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2147384713/index.m3u8
 
 #EXTINF:-1 tvg-name="SKY NATURE" group-title="Germany", SKY NATURE
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3176094807/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2979356473/index.m3u8
 
 #EXTINF:-1 tvg-name="SKY NATURE" group-title="Germany", SKY NATURE
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2979356473/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3176094807/index.m3u8
 
 #EXTINF:-1 tvg-name="SKY NATURE HD (1)" group-title="Germany", SKY NATURE HD (1)
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1699811246/index.m3u8
@@ -15619,10 +15577,10 @@ https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/680919359/i
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/91673989/index.m3u8
 
 #EXTINF:-1 tvg-name="SKY REPLAY" group-title="Germany", SKY REPLAY
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2276831746/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2339352940/index.m3u8
 
 #EXTINF:-1 tvg-name="SKY REPLAY" group-title="Germany", SKY REPLAY
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2339352940/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2276831746/index.m3u8
 
 #EXTINF:-1 tvg-name="SKY SELECT" group-title="Germany", SKY SELECT
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1870257759/index.m3u8
@@ -15634,10 +15592,10 @@ https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/283510209/i
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3746417663/index.m3u8
 
 #EXTINF:-1 tvg-name="SKY SELECT 1" group-title="Germany", SKY SELECT 1
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2903000601/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1859652468/index.m3u8
 
 #EXTINF:-1 tvg-name="SKY SELECT 1" group-title="Germany", SKY SELECT 1
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1859652468/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2903000601/index.m3u8
 
 #EXTINF:-1 tvg-name="SKY SELECT 1 BOX" group-title="Germany", SKY SELECT 1 BOX
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1652281656/index.m3u8
@@ -15673,10 +15631,10 @@ https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1622417772/
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/4285440754/index.m3u8
 
 #EXTINF:-1 tvg-name="SKY SELECT 2" group-title="Germany", SKY SELECT 2
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/695759268/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3936894153/index.m3u8
 
 #EXTINF:-1 tvg-name="SKY SELECT 2" group-title="Germany", SKY SELECT 2
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3936894153/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/695759268/index.m3u8
 
 #EXTINF:-1 tvg-name="SKY SELECT 2 (1)" group-title="Germany", SKY SELECT 2 (1)
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2760530601/index.m3u8
@@ -15685,10 +15643,10 @@ https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2760530601/
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2460927824/index.m3u8
 
 #EXTINF:-1 tvg-name="SKY SELECT 3" group-title="Germany", SKY SELECT 3
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/337139732/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3620214137/index.m3u8
 
 #EXTINF:-1 tvg-name="SKY SELECT 3" group-title="Germany", SKY SELECT 3
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3620214137/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/337139732/index.m3u8
 
 #EXTINF:-1 tvg-name="SKY SELECT 3 (1)" group-title="Germany", SKY SELECT 3 (1)
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2582278937/index.m3u8
@@ -15697,10 +15655,10 @@ https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2582278937/
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1577371598/index.m3u8
 
 #EXTINF:-1 tvg-name="SKY SELECT 4" group-title="Germany", SKY SELECT 4
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1709754729/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2788721668/index.m3u8
 
 #EXTINF:-1 tvg-name="SKY SELECT 4" group-title="Germany", SKY SELECT 4
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2788721668/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1709754729/index.m3u8
 
 #EXTINF:-1 tvg-name="SKY SELECT 4 (1)" group-title="Germany", SKY SELECT 4 (1)
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/734703369/index.m3u8
@@ -15721,10 +15679,10 @@ https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/380274361/i
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2557201993/index.m3u8
 
 #EXTINF:-1 tvg-name="SKY SELECT 6" group-title="Germany", SKY SELECT 6
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/522754569/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3707295588/index.m3u8
 
 #EXTINF:-1 tvg-name="SKY SELECT 6" group-title="Germany", SKY SELECT 6
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3707295588/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/522754569/index.m3u8
 
 #EXTINF:-1 tvg-name="SKY SELECT 6 (1)" group-title="Germany", SKY SELECT 6 (1)
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1359674473/index.m3u8
@@ -15916,10 +15874,10 @@ https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/294002589/i
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/639601056/index.m3u8
 
 #EXTINF:-1 tvg-name="SKY SPORT F1" group-title="Germany", SKY SPORT F1
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3788216934/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/572249867/index.m3u8
 
 #EXTINF:-1 tvg-name="SKY SPORT F1" group-title="Germany", SKY SPORT F1
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/572249867/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3788216934/index.m3u8
 
 #EXTINF:-1 tvg-name="SKY SPORT F1 HD (H265) (1)" group-title="Germany", SKY SPORT F1 HD (H265) (1)
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3305340365/index.m3u8
@@ -16126,10 +16084,10 @@ https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2969484974/
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3164307077/index.m3u8
 
 #EXTINF:-1 tvg-name="SUPER RTL" group-title="Germany", SUPER RTL
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1111300344/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1077497828/index.m3u8
 
 #EXTINF:-1 tvg-name="SUPER RTL" group-title="Germany", SUPER RTL
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1077497828/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1111300344/index.m3u8
 
 #EXTINF:-1 tvg-name="SUPER RTL (1)" group-title="Germany", SUPER RTL (1)
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/181823515/index.m3u8
@@ -16228,10 +16186,10 @@ https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2249059745/
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/88489833/index.m3u8
 
 #EXTINF:-1 tvg-name="TLC" group-title="Germany", TLC
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3520991180/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2900784983/index.m3u8
 
 #EXTINF:-1 tvg-name="TLC" group-title="Germany", TLC
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2900784983/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3520991180/index.m3u8
 
 #EXTINF:-1 tvg-name="TLC (1)" group-title="Germany", TLC (1)
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1706108680/index.m3u8
@@ -16261,10 +16219,10 @@ https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1310739364/
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1657612547/index.m3u8
 
 #EXTINF:-1 tvg-name="TOGGO PLUS" group-title="Germany", TOGGO PLUS
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2760792828/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2824100242/index.m3u8
 
 #EXTINF:-1 tvg-name="TOGGO PLUS" group-title="Germany", TOGGO PLUS
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2824100242/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2760792828/index.m3u8
 
 #EXTINF:-1 tvg-name="TOGGO PLUS (1)" group-title="Germany", TOGGO PLUS (1)
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3675357538/index.m3u8
@@ -16462,10 +16420,10 @@ https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2171614967/
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2422241584/index.m3u8
 
 #EXTINF:-1 tvg-name="WELT" group-title="Germany", WELT
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2639678240/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3794756322/index.m3u8
 
 #EXTINF:-1 tvg-name="WELT" group-title="Germany", WELT
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3794756322/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2639678240/index.m3u8
 
 #EXTINF:-1 tvg-name="WELT (1)" group-title="Germany", WELT (1)
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/742772823/index.m3u8
@@ -16625,9 +16583,9 @@ https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1289777017/
 
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1744435623/index.m3u8
 
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1907000512/index.m3u8
-
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1987220436/index.m3u8
+
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1907000512/index.m3u8
 
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2178717282/index.m3u8
 
@@ -16729,9 +16687,9 @@ https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2982550433/
 
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3439223610/index.m3u8
 
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2820683351/index.m3u8
-
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2767861049/index.m3u8
+
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2820683351/index.m3u8
 
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/563160609/index.m3u8
 
@@ -16739,9 +16697,9 @@ https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2179686828/
 
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1995860185/index.m3u8
 
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/4060499455/index.m3u8
-
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2373936189/index.m3u8
+
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/4060499455/index.m3u8
 
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2116902817/index.m3u8
 
@@ -16837,9 +16795,9 @@ https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3538009430/
 
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3657217948/index.m3u8
 
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3758728323/index.m3u8
-
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3889279895/index.m3u8
+
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3758728323/index.m3u8
 
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3446813098/index.m3u8
 
@@ -16899,21 +16857,21 @@ https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1711134994/
 
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2627662768/index.m3u8
 
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/875922788/index.m3u8
-
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1225653759/index.m3u8
 
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1939210164/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/875922788/index.m3u8
 
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/246253359/index.m3u8
+
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1939210164/index.m3u8
 
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1324733956/index.m3u8
 
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/869117599/index.m3u8
 
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/4241820180/index.m3u8
-
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2179822223/index.m3u8
+
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/4241820180/index.m3u8
 
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2049087681/index.m3u8
 
@@ -16937,9 +16895,9 @@ https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2272923972/
 
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2239645272/index.m3u8
 
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2828455552/index.m3u8
-
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2861734300/index.m3u8
+
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2828455552/index.m3u8
 
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2007798511/index.m3u8
 
@@ -16951,9 +16909,9 @@ https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/551730224/i
 
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/843891896/index.m3u8
 
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/78838793/index.m3u8
-
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/57338653/index.m3u8
+
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/78838793/index.m3u8
 
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1890950169/index.m3u8
 
@@ -16983,9 +16941,9 @@ https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2165549789/
 
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3075118500/index.m3u8
 
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2235732004/index.m3u8
-
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/4198218214/index.m3u8
+
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2235732004/index.m3u8
 
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3351863213/index.m3u8
 
@@ -17007,9 +16965,9 @@ https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3590183307/
 
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/639406775/index.m3u8
 
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3168132911/index.m3u8
-
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1729811452/index.m3u8
+
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3168132911/index.m3u8
 
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/4136045815/index.m3u8
 
@@ -17033,13 +16991,13 @@ https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1902695925/
 
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1806815496/index.m3u8
 
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1482866609/index.m3u8
-
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1421393119/index.m3u8
 
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1144128726/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1482866609/index.m3u8
 
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3812796171/index.m3u8
+
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1144128726/index.m3u8
 
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2242741766/index.m3u8
 
@@ -17051,9 +17009,9 @@ https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/500203271/i
 
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1235530177/index.m3u8
 
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2330574729/index.m3u8
-
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1228534500/index.m3u8
+
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2330574729/index.m3u8
 
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1078650168/index.m3u8
 
@@ -17061,9 +17019,9 @@ https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/415795144/i
 
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3216516117/index.m3u8
 
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2890008905/index.m3u8
-
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1281264885/index.m3u8
+
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2890008905/index.m3u8
 
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3060043751/index.m3u8
 
@@ -17083,9 +17041,9 @@ https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1492183364/
 
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1944682394/index.m3u8
 
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2268489342/index.m3u8
-
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/4272937805/index.m3u8
+
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2268489342/index.m3u8
 
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2221901869/index.m3u8
 
@@ -17119,9 +17077,9 @@ https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3939513684/
 
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3251217290/index.m3u8
 
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3618643172/index.m3u8
-
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/4238969402/index.m3u8
+
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3618643172/index.m3u8
 
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1440779061/index.m3u8
 
@@ -17139,9 +17097,9 @@ https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2775802255/
 
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3445562519/index.m3u8
 
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2555960713/index.m3u8
-
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3007400791/index.m3u8
+
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2555960713/index.m3u8
 
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/449990998/index.m3u8
 
@@ -17153,9 +17111,9 @@ https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3093535330/
 
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1989309231/index.m3u8
 
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3897711086/index.m3u8
-
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/729945219/index.m3u8
+
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3897711086/index.m3u8
 
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2066326916/index.m3u8
 
@@ -17163,15 +17121,15 @@ https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3036316886/
 
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2090703806/index.m3u8
 
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/326825326/index.m3u8
-
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2711959620/index.m3u8
+
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/326825326/index.m3u8
 
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2077387085/index.m3u8
 
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2100771782/index.m3u8
-
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/78546677/index.m3u8
+
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2100771782/index.m3u8
 
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/210669162/index.m3u8
 
@@ -17207,9 +17165,9 @@ https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/88205050/in
 
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1284194905/index.m3u8
 
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3213195143/index.m3u8
-
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3009377513/index.m3u8
+
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3213195143/index.m3u8
 
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/11653719/index.m3u8
 
@@ -17372,10 +17330,10 @@ https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/740890222/i
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/60276472/index.m3u8
 
 #EXTINF:-1 tvg-name="192 TV" group-title="Netherlands", 192 TV
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2608998715/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2539137621/index.m3u8
 
 #EXTINF:-1 tvg-name="192 TV" group-title="Netherlands", 192 TV
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2539137621/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2608998715/index.m3u8
 
 #EXTINF:-1 tvg-name="24 KITCHEN" group-title="Netherlands", 24 KITCHEN
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/622061122/index.m3u8
@@ -23852,10 +23810,10 @@ https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3564106134/
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2567486605/index.m3u8
 
 #EXTINF:-1 tvg-name="BEIN GURME" group-title="Turkey", BEIN GURME
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3583230858/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3617035414/index.m3u8
 
 #EXTINF:-1 tvg-name="BEIN GURME" group-title="Turkey", BEIN GURME
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3617035414/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3583230858/index.m3u8
 
 #EXTINF:-1 tvg-name="BEIN GURME HD (1)" group-title="Turkey", BEIN GURME HD (1)
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/950394656/index.m3u8
@@ -23879,10 +23837,10 @@ https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/650851542/i
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2617318386/index.m3u8
 
 #EXTINF:-1 tvg-name="BEIN MOVIES FAMILY" group-title="Turkey", BEIN MOVIES FAMILY
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2485199152/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1322228068/index.m3u8
 
 #EXTINF:-1 tvg-name="BEIN MOVIES FAMILY" group-title="Turkey", BEIN MOVIES FAMILY
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1322228068/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2485199152/index.m3u8
 
 #EXTINF:-1 tvg-name="BEIN MOVIES PREMIERE" group-title="Turkey", BEIN MOVIES PREMIERE
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2197747964/index.m3u8
@@ -23966,10 +23924,10 @@ https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/662179620/i
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/593493860/index.m3u8
 
 #EXTINF:-1 tvg-name="BEIN SPORTS 2" group-title="Turkey", BEIN SPORTS 2
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2509466191/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1447241506/index.m3u8
 
 #EXTINF:-1 tvg-name="BEIN SPORTS 2" group-title="Turkey", BEIN SPORTS 2
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1447241506/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2509466191/index.m3u8
 
 #EXTINF:-1 tvg-name="BEIN SPORTS 2 HD (1)" group-title="Turkey", BEIN SPORTS 2 HD (1)
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2851539143/index.m3u8
@@ -24524,10 +24482,10 @@ https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1165201807/
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1195429280/index.m3u8
 
 #EXTINF:-1 tvg-name="DMAX" group-title="Turkey", DMAX
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3239529951/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3157210436/index.m3u8
 
 #EXTINF:-1 tvg-name="DMAX" group-title="Turkey", DMAX
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3157210436/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3239529951/index.m3u8
 
 #EXTINF:-1 tvg-name="DMAX HD (1)" group-title="Turkey", DMAX HD (1)
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1595495667/index.m3u8
@@ -25136,10 +25094,10 @@ https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2129890787/
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1281270568/index.m3u8
 
 #EXTINF:-1 tvg-name="HALK TV" group-title="Turkey", HALK TV
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/4148513719/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3986444106/index.m3u8
 
 #EXTINF:-1 tvg-name="HALK TV" group-title="Turkey", HALK TV
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3986444106/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/4148513719/index.m3u8
 
 #EXTINF:-1 tvg-name="HALK TV HD (1)" group-title="Turkey", HALK TV HD (1)
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1771999100/index.m3u8
@@ -26030,10 +25988,10 @@ https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2898013627/
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/460410710/index.m3u8
 
 #EXTINF:-1 tvg-name="S SPORT" group-title="Turkey", S SPORT
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3346549722/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3718336295/index.m3u8
 
 #EXTINF:-1 tvg-name="S SPORT" group-title="Turkey", S SPORT
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3718336295/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3346549722/index.m3u8
 
 #EXTINF:-1 tvg-name="S SPORT 2" group-title="Turkey", S SPORT 2
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1234604880/index.m3u8
@@ -26144,10 +26102,10 @@ https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2642935463/
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3537232978/index.m3u8
 
 #EXTINF:-1 tvg-name="SHOW MAX" group-title="Turkey", SHOW MAX
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2196278652/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1495761327/index.m3u8
 
 #EXTINF:-1 tvg-name="SHOW MAX" group-title="Turkey", SHOW MAX
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/1495761327/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2196278652/index.m3u8
 
 #EXTINF:-1 tvg-name="SHOW RADYO (1)" group-title="Turkey", SHOW RADYO (1)
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3509899144/index.m3u8
@@ -26690,10 +26648,10 @@ https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3340997026/
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/836826697/index.m3u8
 
 #EXTINF:-1 tvg-name="TRT COCUK" group-title="Turkey", TRT COCUK
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/792228122/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/685794830/index.m3u8
 
 #EXTINF:-1 tvg-name="TRT COCUK" group-title="Turkey", TRT COCUK
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/685794830/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/792228122/index.m3u8
 
 #EXTINF:-1 tvg-name="TRT COCUK RAW (1)" group-title="Turkey", TRT COCUK RAW (1)
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/3979837190/index.m3u8
@@ -26750,10 +26708,10 @@ https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/433581315/i
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/550045102/index.m3u8
 
 #EXTINF:-1 tvg-name="TRT SPOR" group-title="Turkey", TRT SPOR
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2781429267/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2114335424/index.m3u8
 
 #EXTINF:-1 tvg-name="TRT SPOR" group-title="Turkey", TRT SPOR
-https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2114335424/index.m3u8
+https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2781429267/index.m3u8
 
 #EXTINF:-1 tvg-name="TRT SPOR FHD (1)" group-title="Turkey", TRT SPOR FHD (1)
 https://nicovasco-tvpro.hf.space/proxy/m3u?url=https://vavoo.to/play/2952828245/index.m3u8
